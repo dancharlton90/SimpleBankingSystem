@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/production/classes/
+/Topics/Command-line arguments/Command line arguments/out/
+/Topics/Command-line arguments/Command line arguments/out/production/classes/
+/Topics/Command-line arguments/Get the game mode/out/
+/Topics/Command-line arguments/Get the game mode/out/production/classes/
+/Topics/Command-line arguments/How to start a program/out/
+/Topics/Command-line arguments/How to start a program/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Command-line arguments/Theory/out/
+/Topics/Command-line arguments/Theory/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Exception handling/Executed blocks/out/
+/Topics/Exception handling/Executed blocks/out/production/classes/
+/Topics/Exception handling/Theory/out/
+/Topics/Exception handling/Theory/out/production/classes/
+/Topics/Hierarchy of exceptions/Base class/out/
+/Topics/Hierarchy of exceptions/Base class/out/production/classes/
+/Topics/Hierarchy of exceptions/Theory/out/
+/Topics/Hierarchy of exceptions/Theory/out/production/classes/
+/Topics/java.util.Arrays/Array sorting/out/
+/Topics/java.util.Arrays/Array sorting/out/production/classes/
+/Topics/java.util.Arrays/Convert the array to a List/out/
+/Topics/java.util.Arrays/Convert the array to a List/out/production/classes/
+/Topics/java.util.Arrays/Convert the array to a stream/out/
+/Topics/java.util.Arrays/Convert the array to a stream/out/production/classes/
+/Topics/java.util.Arrays/Theory/out/
+/Topics/java.util.Arrays/Theory/out/production/classes/
+/Topics/Random/Choose a correct invocation/out/
+/Topics/Random/Choose a correct invocation/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/The keyword super/Employees/out/
+/Topics/The keyword super/Employees/out/production/classes/
+/Topics/The keyword super/Fix the non-compiled hierarchy/out/
+/Topics/The keyword super/Fix the non-compiled hierarchy/out/production/classes/
+/Topics/The keyword super/Statements/out/
+/Topics/The keyword super/Statements/out/production/classes/
+/Topics/The keyword super/Theory/out/
+/Topics/The keyword super/Theory/out/production/classes/
